@@ -1,0 +1,118 @@
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.button1{
+    background-color: rgba(243, 95, 47, 1);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    height: 45px;
+    width: 100px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    padding-left: 50px;
+}
+
+.kart2{
+    position: absolute;
+    width: 540px;
+    height: 170px;
+    left: 137px;
+    top: 232px; 
+    font-size: 20px;
+}
+
+.h{
+    font-size: 65px;
+}
+
+.button2{
+    width: 150px;
+    height: 40px;
+    background-color: rgba(243, 95, 47, 1);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.card2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.img1{
+    padding-left: 450px;
+    width: 540px;
+    padding-top: 150px;
+}
+
+.h11{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.kart3{
+    text-align: center;
+}
+
+.kart4{
+    text-align: center;
+}
+
+.kart5{
+    text-align: center;
+}
+
+.card3{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 60px;
+}
+
+.h111{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.card4{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 60px;
+    
+}
+
+.div1{
+    text-align: center;
+    width: 356px;
+    height: 302px;
+    border-radius: 23px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 4px 22px 0px rgba(95, 95, 95, 0.05);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+.div2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.div5{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
